@@ -133,3 +133,10 @@ dmypy.json
 
 # Mac Garbage
 .DS_Store
+
+# Models
+checkpoints/
+my_dir/
+saved_model/
+*.h5
+
